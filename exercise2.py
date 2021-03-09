@@ -13,4 +13,4 @@ while x !=r :
     elif x > r:
         print('lower')
     else:
-        print("correct, you won!")
+        print("correct, you guessed correctly!")
