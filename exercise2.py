@@ -1,4 +1,4 @@
-##copy code into python consoleaa
+##copy code into python consoleaaa
 
 import random
 
